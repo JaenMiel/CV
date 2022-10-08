@@ -1,6 +1,6 @@
 # JAEN MIEL S. JABSON
 
-You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+PAKYU MINA
 
 ## What does this project do?
 
