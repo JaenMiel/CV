@@ -1,15 +1,18 @@
 # JAEN MIEL S. JABSON
 
-PAKYU MINA
 
-## What does this project do?
+C O N T A C T
++63 9062423557
+jaen.miel@gmail.com
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+P ER S O N A L
+I N F O R M A T I O N
 
-Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
+Lancaster New City, Cavite
+Male
+October 18, 2001
+Filipino
 
-Real world example: [http://sneas.github.io/cv](http://sneas.github.io/cv).
 
 ## Motivation
 
