@@ -50,11 +50,19 @@ ACCOUNTANCY
  2022 - Present
 
 
-rgb(9, 105, 218) SALES ASSISTANT
+**SALES ASSISTANT
 
 Cebu Pacific Air, Inc (Travel Tour Expo 2018)
 February 9 - 11, 2018
 
 
+-volunteer under the sales department
+-manned the information desk
+-duties were customer management, sales, and queries
+
+**MARKETING ASSISTANT
+
+J.A. Asia Pacific (JA Company Program)
+2019-2020
 
 
