@@ -2,6 +2,7 @@
 
 
 C O N T A C T
+
 +63 9062423557
 jaen.miel@gmail.com
 
@@ -14,11 +15,25 @@ October 18, 2001
 Filipino
 
 
-## Motivation
+## E D U C A T I O N
 
-GitHub Pages is probably the best place developer could store their CV. Giving a potential employer a link to your CV stored on GitHub shows your intense desire for automation and stands you out.
+ACCOUNTANCY AND
+BUSINESS MANAGEMENT
 
-The idea behind **The Curriculum Vitae Template** is to provide anyone with a quick solution for creating and managing CVs (both HTML and PDF versions) with the help of GitHub.
+St. Andrew's School Inc.
+2018-2020
+
+BACHELOR OF SCIENCE IN
+ACCOUNTANCY
+
+Lyceum of the Philippines - Cavite
+2020 – 2022
+
+ BSE – Esports Management
+ 
+Lyceum of the Philippines - Manila
+ 2022 - Present
+
 
 ## Installation
 
