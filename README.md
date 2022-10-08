@@ -50,7 +50,7 @@ ACCOUNTANCY
  2022 - Present
 
 
-#0969DASALES ASSISTANT
+rgb(9, 105, 218) SALES ASSISTANT
 
 Cebu Pacific Air, Inc (Travel Tour Expo 2018)
 February 9 - 11, 2018
