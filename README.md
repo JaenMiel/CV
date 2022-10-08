@@ -1,7 +1,7 @@
 # JAEN MIEL S. JABSON
 
 
-C O N T A C T
+C O N T A C T S
 
 +63 9062423557
 jaen.miel@gmail.com
